@@ -252,3 +252,14 @@
 .markdown-widget a {
   text-decoration: underline;
 }
+
+/* StudyBuilder style config */
+.n-min-w-full {
+  background: #001865 !important;
+  color: white !important;
+}
+
+.ndl-side-navigation {
+  background: #193074 !important;
+}
+/* End StudyBuilder style config */
