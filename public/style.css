@@ -255,11 +255,54 @@
 
 /* StudyBuilder style config */
 .n-min-w-full {
-  background: #001865 !important;
+  background: #193074 !important;
   color: white !important;
+}
+
+.header-icon {
+  color: white !important;
+}
+
+.ndl-icon-btn.n-p-2.ndl-large.ndl-clean {
+  display: none !important;
 }
 
 .ndl-side-navigation {
   background: #193074 !important;
 }
+
+.n-text-palette-neutral-text-weak {
+  color: #193074 !important;
+}
+
+.ndl-btn.ndl-medium.ndl-outlined {
+  background: #8b97ba !important;
+  color: white !important;
+  border: none !important;
+}
+
+.ndl-btn.ndl-medium.ndl-text {
+  color: white !important;
+} 
+
+.ndl-btn.ndl-medium.ndl-text:hover {
+  background: #2f427b !important;
+} 
+
+.btn-icon-base-r {
+  color: white !important;
+}
+
+.ndl-btn.ndl-small.ndl-text:hover {
+  background: #2f427b !important;
+}
+
+.ndl-icon-btn.undefined.ndl-small.ndl-clean:hover {
+  background: #2f427b !important;
+}
+
+.btn-icon-base-r-m {
+  color: white !important;
+}
+
 /* End StudyBuilder style config */
